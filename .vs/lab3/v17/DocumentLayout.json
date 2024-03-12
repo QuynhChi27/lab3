@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo\\FU\\Hands-on Labs\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242CC7B7-D636-46E3-B0EF-10346C04EAF7}|AutomobileWinApp\\AutomobileWinApp.csproj|d:\\demo\\fu\\hands-on labs\\lab3\\automobilewinapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{242CC7B7-D636-46E3-B0EF-10346C04EAF7}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242CC7B7-D636-46E3-B0EF-10346C04EAF7}|AutomobileWinApp\\AutomobileWinApp.csproj|D:\\Demo\\FU\\Hands-on Labs\\lab3\\automobilewinapp\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242CC7B7-D636-46E3-B0EF-10346C04EAF7}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816C124-C859-4360-8DE5-2C340C2B3441}|AutomobileLibrary\\AutomobileLibrary.csproj|D:\\Demo\\FU\\Hands-on Labs\\lab3\\automobilelibrary\\dataaccess\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816C124-C859-4360-8DE5-2C340C2B3441}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\mystockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 245,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Demo\\FU\\Hands-on Labs\\lab3\\AutomobileWinApp\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\Index.cshtml",
+              "ToolTip": "D:\\Demo\\FU\\Hands-on Labs\\lab3\\AutomobileWinApp\\Index.cshtml",
+              "RelativeToolTip": "AutomobileWinApp\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T21:29:32.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\Demo\\FU\\Hands-on Labs\\lab3\\AutomobileWinApp\\CarsController.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\CarsController.cs",
+              "ToolTip": "D:\\Demo\\FU\\Hands-on Labs\\lab3\\AutomobileWinApp\\CarsController.cs",
+              "RelativeToolTip": "AutomobileWinApp\\CarsController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAUwH8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:37:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStockContext.cs",
+              "DocumentMoniker": "D:\\Demo\\FU\\Hands-on Labs\\lab3\\AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "ToolTip": "D:\\Demo\\FU\\Hands-on Labs\\lab3\\AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\MyStockContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA6wBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:44:15.418Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
